@@ -56,4 +56,4 @@ The HR Analysis Dashboard helps HR teams:
 ✨ Improve employee retention strategies
 ✨ Make actionable and data-driven decisions
 
-<p align="center"> <img src="assets/dashboard_screenshot.png" alt="HR Analysis Dashboard" width="800"/> </p>
+<p align="center"> <img src="combined.jpg" alt="HR Analysis Dashboard" width="800"/> </p>
