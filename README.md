@@ -18,13 +18,12 @@ The HR Analysis Dashboard is designed to analyze employee demographics, attritio
 
 🛠️ Tools & Technologies Used
 
-Tableau / Power BI / KNIME (choose your tool)
+Tableau 
 
-Excel / CSV Data Cleaning
+Excel Data Cleaning
 
 Data Visualization & Reporting
 
-GitHub for version control and deployment
 
 🎯 Project Objectives
 
